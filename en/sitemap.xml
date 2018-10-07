@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://toplak.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/now/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/zdaj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/now/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/tags/"
+                />
+  </url>
+  
+</urlset>

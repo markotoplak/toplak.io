@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazalo on Marko Toplak</title>
+    <link>https://toplak.io/sl/</link>
+    <description>Recent content in Kazalo on Marko Toplak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://toplak.io/sl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O meni</title>
+      <link>https://toplak.io/o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/o/</guid>
+      <description>Računalnikar Programirati sem začel v zadnjih razredih osnovne šole. Znati programirati se mi je zdelo frajersko. Nekaj let sem poskušal naučiti pascala, a dlje od prepisovanja primerov nisem prišel. Postavljal sem tudi spletne strani, a to ni bilo pravo programiranje. Kako razmišljati kot programer sem zaslutil šele, ko sem bil v programiranje prisiljen: želel sem postaviti IRC bota na VAX/VMS strežniku. Na njem je tekel IRC odjemalec z možnostjo pisanja skript.</description>
+    </item>
+    
+    <item>
+      <title>Zdaj</title>
+      <link>https://toplak.io/zdaj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/zdaj/</guid>
+      <description>Živim preprosto:
+ Popravljam hrošče. Telovadim. Vadim tango. Plezam. Spim.  Skoraj vsak dan se sprehodim do Sinhrotrona Soleil (v Franciji), ker sem podoktorski raziskovalec. Orange, prijazno okolje za analizo podatkov, poskušam prepričati, da bo prežvečil podatke o spektrih in morda tudi tomografske podatke. Projektu rečemo Quasar.
+Če me druga telovadba ne utrudi preveč, delam vaje po GMB Vitamin programu. Tudi na gibčnosti bi moral delati več. Po telovadbi se vedno počutim dobro.</description>
+    </item>
+    
+  </channel>
+</rss>
