@@ -1,0 +1,25 @@
+baseURL = "https://toplak.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Marko Toplak"
+theme="hugo-xmin"
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.sl]
+    languageName = "Slovenščina"
+    weight = 2
+
+
+[[languages.en.menu.main]]
+    name = "Index"
+    url = "/"
+    weight = 1
+
+[[languages.sl.menu.main]]
+    name = "Kazalo"
+    url = "/sl/"
+    weight = 1
