@@ -19,7 +19,7 @@ V zadnjih počitnicah pred srednjo šolo sem v okolju Delphi napisal knjigovodsk
 program za očetovo pisarno. Takrat sem začel učiti
 tudi golfa: Delphi, java in golf so vse, česar se spomnim s tistih počitnic.
 Med srednjo šolo sem za spletno stran ptujskega golf igrišča razvil
-sistem za upravljenje vsebin (v perlu).
+sistem za upravljanje vsebin (v perlu).
 
 Kasneje sem iz računalništva diplomiral in doktoriral na Univerzi v Ljubljani.
 V [Laboratoriju za bioinformatiko](http://biolab.si) sem se srečal s strojnim učenjem,
