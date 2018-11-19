@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://toplak.io/dj/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/tdj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/dj/"
+                />
+  </url>
+  
+  <url>
     <loc>https://toplak.io/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -33,6 +48,7 @@
   
   <url>
     <loc>https://toplak.io/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -56,6 +72,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toplak.io/now/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/posts/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/posts/"
                 />
   </url>
   

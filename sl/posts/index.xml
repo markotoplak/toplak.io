@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marko Toplak</title>
+    <link>https://toplak.io/sl/posts/</link>
+    <description>Recent content in Posts on Marko Toplak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://toplak.io/sl/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tango DJ</title>
+      <link>https://toplak.io/tdj/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/tdj/</guid>
+      <description>Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče. Plesalci so mirnejši, a bolj ustvarjalni. Plesišče se premika hitreje, a je nesreč manj. Plesalci so dobre volje in več plešejo z neznanci. Kadarkoli predvaja moj najljubši tango DJ, Andres Molina, se mi zdi, da plešem bolje.</description>
+    </item>
+    
+  </channel>
+</rss>
