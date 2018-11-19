@@ -2,7 +2,6 @@
 title: "Tango DJ"
 url: "/tdj/"
 date: 2018-11-19
-draft: true
 ---
 
 Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa

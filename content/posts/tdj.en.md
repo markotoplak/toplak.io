@@ -2,7 +2,6 @@
 title: "Tango DJ"
 url: "/dj/"
 date: 2018-11-19
-draft: true
 ---
 
 In tango we dance to---exaggerating a bit---to the same 25 songs.
