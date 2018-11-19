@@ -18,8 +18,7 @@ a visual programming toolkit for data analysis, so that it will handle
 also data from tomography. We call our project [Quasar](https://quasar.codes).
 
 If I am not too tired because I did something else, I follow the
-[GMB Vitamin](https://gmb.io/v/) program. I should also train for
-flexibility. After the workouts I feel great. And hungry.
+[GMB Integral Strength](https://gmb.io/is/) program. After the workouts I feel great. And hungry.
 Always.
 
 There is a wonderful place nearby that is world-famous for bouldering: Fontainebleau forest.
@@ -31,12 +30,13 @@ go that often.
 Returning home during the night just takes long (I avoid going to Paris by car).
 I like the Sunday evening milonga, Dolce vita, the best.
 
-We practice at home. Lately
+We practice at home. Now we practice more, because we are performing on December 16 at
+Milonga Linda in Ljubljana. Lately
 I like practicing more than dancing at a milonga.
 
 I am learning French. I take classes at Soleil and I watch the original Dragonball
 series (in French).
 
---- October 2018
+--- November 2018
 
 
