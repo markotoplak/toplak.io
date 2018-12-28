@@ -82,16 +82,16 @@ Pugliese:
 
 
 
-Kakovost glasbenih posnetkov
-----------------------------
+Kakovost zvoka
+--------------
 
 Večina skladb, na katere plešemo na tradicionalnih milongah, je bila posnetih
 pred letom 1950. Za večino glasbe so izvorni posnetki že zdavnaj izgubljeni -
 plešemo na kopije kopij. Zato so pogosto slabe kvalitete.
 
-Kot plesalec se v boljše posnetke lažje vživim. Dober posnetek je zame tisti,
-kjer so inštrumenti in glas čim bolj naravni. Šum v ozadju mi je manj
-pomemben.
+Kot plesalec se v boljše posnetke lažje vživim. Dober zvok je zame tisti,
+kjer so pevec, violine in klavir jasni in naravni. Šum v ozadju me ne moti.
+Nekateri DJi radi poudarijo nizke tone. Jaz ne.
 
 Najboljše posnetke iz zlate dobe tanga digitalizirajo pri založbi TangoTunes.
 Pri njih sem ji kupil dovolj, da sem si zaslužil spodnjo plaketo.

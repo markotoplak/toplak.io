@@ -4,25 +4,25 @@ url: "/dj/"
 date: 2018-11-19
 ---
 
-In tango we dance to---exaggerating a bit---to the same 25 songs.
-Still, every milonga feels different. Selection of music, order of songs and their
-combinations, is very important.  If it is good, everything flows better.
+In tango we dance to, if I exaggerate a bit, to the same 25 songs.
+Still, every milonga feels different. If the selection of music---order of songs and their
+combinations---everything flows better.
 Dancers are more peaceful, but also more creative. The whole dancefloor is
 moving faster, but there are less crashes.  People dance more with strangers.
 Whenever my favorite DJ (Andres Molina) plays, it feels as if I dance better.
 
-All dancers have our own style, our own advantages and limitations. We listen to
+All dancers have our own styles, our own advantages and limitations. We listen to
 different aspects of music. Therefore, a good DJ play a wide spectrum of
-music so, that we deeply feel even the music we would not choose ourselves.
+music, and he plays it so, that we deeply feel even the music we would not choose ourselves.
 A good DJs does it in an original and honest way.
 
 As I am developing as a dancer, my musical taste is also changing.
-Some songs are becoming more interesting, other more boring. When I play, I try
+Some songs are becoming more interesting, other less. When I play, I try
 to emphasize with the dancers, but, still, I am limited by what I understand.
 
 For me, a good milonga is based on four strong orchestras: D'Arienzo, Di Sarli,
 Pugliese and Troilo. All four kept developing through multiple decades.
-The longer I dance, the more I like them. Therefore, I prefer early D'Arienzo
+The longer I dance, the more I appreciate them. I prefer early D'Arienzo
 to early Biagi, late Di Sarli to late Biagi, early Di Sarli to early Demare, Troilo
 to Calo.
 
@@ -30,8 +30,8 @@ I play other orchestras sparingly. I love Laurenz, D'Agostino, and Tanturi.
 Lately I also like to dance to newer tangos, like Quinteto Real,
 but I do not yet dare to play them publicly.
 
-I do not play music I find boring. Because I do not understand it, I can not blend it into the evening well.
-I do not play orchestras De Angelis, Rodriguez or Canaro (after 1935).
+I can not play music I find boring. I do not understand it, so I can not blend it into the evening well.
+I do not play orchestras of De Angelis, Rodriguez or Canaro (after 1935).
 
 The great four
 --------------
@@ -75,19 +75,19 @@ Pugliese:
 - [Recuerdo](https://www.youtube.com/watch?v=RfxeWioT444), 1965, sung by Maciel
 
 
-Quality of recordings
----------------------
+Sound quality
+-------------
 
 On traditional milongas we mostly dance to music recorded before 1950. Many
 original recordings were lost long ago: we dance to copies of copies. Recordings are
 therefore often quite bad.
 
-As I dancer I find better recording more inspiring. For me, in
-a good recording voices and instruments seem natural. On the other hand,
-noise in the background does not bother me at all.
+As I dancer I find better recording more inspiring. For me, the sound
+is good if singers, violions and piano are clear and seem natural. On the other hand,
+I do not mind some background noise. Some DJs like to emphasize low notes---I do not. 
 
 These days, TangoTunes makes the best digital transfers. I bought enough
-of them to deserve the badge below.
+to deserve the badge below.
 
 [<img src="/tt_connoisseur_banner.png" style="max-width: 100%; margin-left: 3px;"
 alt="TangoTunes connoisseur badge" />](http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
@@ -96,9 +96,8 @@ alt="TangoTunes connoisseur badge" />](http://blog.tangotunes.com/tangotunes-con
 Milongas
 --------
 
-I am a young DJ. I am still searching for my style, still changing a lot.
-After every milonga I see many things I can improve.
-
+As a young DJ, I am still searching for my style, still changing a lot.
+Every milonga teaches me something new. 
 I am very grateful to all organizers who trusted me with their milongas.
 
 2015:
