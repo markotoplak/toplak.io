@@ -2,7 +2,6 @@ baseURL = "https://toplak.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Marko Toplak"
-theme="hugo-xmin"
 
 
 [languages]
