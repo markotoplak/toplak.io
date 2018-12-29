@@ -4,6 +4,21 @@ url: "/tdj/"
 date: 2018-11-19
 ---
 
+Tango sem začel plesati, ker mi je bila všeč glasba. Sedaj na milongah občasno
+predvajam glasbo. Na tej strani:
+
+- [Biti tango DJ]({{<ref "#biti-tango-dj" >}})
+- [Veliki štirje]({{<ref "#veliki-štirje" >}})
+- [Kakovost zvoka]({{<ref "#kakovost-zvoka" >}})
+- [Prejšnje milonge]({{<ref "#prejšnje-milonge" >}})
+
+[<img src="/tt_connoisseur_banner.png" style="max-width: 100%;"
+alt="TangoTunes connoisseur badge" />](
+http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
+
+Biti tango DJ
+-------------
+
 Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa
 vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe
 (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče.
@@ -42,7 +57,8 @@ Canaro (po 1935).
 Veliki štirje
 -------------
 
-Za velike štiri sem pripravil seznam skladb, ki so mi še posebej všeč.
+Veliki štirje so ustvarjali desetletja in se skozi ves ta čas razvijali.
+Zanje sem pripravil seznam skladb, ki so mi še posebej všeč.
 
 D'Arienzo:
 
@@ -91,18 +107,21 @@ plešemo na kopije kopij. Zato so pogosto slabe kvalitete.
 
 Kot plesalec se v boljše posnetke lažje vživim. Dober zvok je zame tisti,
 kjer so pevec, violine in klavir jasni in naravni. Šum v ozadju me ne moti.
-Nekateri DJi radi poudarijo nizke tone. Jaz ne.
+
+Nekateri DJi radi poudarijo nizke tone. Jaz ne, ker zame bistvo tanga leži
+v melodijah. Te so ponavadi pete, ali pa jih zaigrajo violine, bandoneoni
+in klavir.
 
 Najboljše posnetke iz zlate dobe tanga digitalizirajo pri založbi TangoTunes.
 Pri njih sem ji kupil dovolj, da sem si zaslužil spodnjo plaketo.
 
-[<img src="/tt_connoisseur_banner.png" style="max-width: 100%; margin-left: 3px;"
-alt="TangoTunes connoisseur badge" />](http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
+[<img src="/tt_connoisseur_banner.png" style="max-width: 100%;"
+alt="TangoTunes connoisseur badge" />](
+http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
 
 
-
-Milonge
--------
+Prejšnje milonge
+----------------
 
 Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti.
 Vsakič, ko predvajam, vidim možne izboljšave.
