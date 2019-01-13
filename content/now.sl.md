@@ -5,11 +5,10 @@ url: zdaj
 
 Živim preprosto:
 
-- Popravljam hrošče.
+- Programiram.
 - Telovadim.
-- Vadim tango.
-- Plezam.
-- Spim.
+- Plešem tango.
+- In rad spim.
 
 Skoraj vsak dan se sprehodim do [Sinhrotrona Soleil](https://www.synchrotron-soleil.fr/)
 (v Franciji), ker sem podoktorski raziskovalec.
@@ -18,23 +17,14 @@ da bo prežvečil
 podatke [o spektrih](https://github.com/quasars/orange-spectroscopy) in morda tudi
 tomografske podatke. Projektu rečemo [Quasar](https://quasar.codes).
 
-Če me druga telovadba ne utrudi preveč, delam vaje po
-[GMB Integral Strength](https://gmb.io/is/) programu. Po telovadbi se
-vedno počutim dobro. In vedno sem lačen.
+Če me tango ne utrudi preveč, vadim po
+[GMB Integral Strength](https://gmb.io/is/) programu. 
+Vsak dan [visim 7 minut](http://www.idoportal.com/blog/hanging).
+Viseti sem začel pred kakim tednom in me vedno bolj zabava.
+Če se opogumim, se stuširam z mrzlo vodo.
 
-Blizu je čudovit gozd in eno najznamenitejših
-balvanskih plezališč: gozd Fontainebleau. Gozd, kjer na peščenih tleh
-rastejo pretežno borovci, je poln velikih skal, na katere
-poskušava plezati vsaj enkrat tedensko. Tam se mi zdi, kot da sem na morju.
+Redno plešem na nedeljski popoldanski milongi (Dolce vita) in včasih še na petkovi (Oh la la).
+Izogibam se ponočevanju, zato grem z večerne milonge med prvimi.
+Doma pridno vadiva.
 
-Preden sem se preselil, sem se zelo veselil pariškega tanga, a na milonge ne
-hodiva pogosto.
-Daleč je, sploh ponoči, avta se pa izogibam. Najraje imam nedeljsko večerno milonga: Dolce vito.
-
-Več vadiva doma, sploh sedaj, ker 16. decembra nastopava na Milongi Linda v Ljubljani.
-Zadnje čase raje vadim kot plešem na milongi.
-
-Francosko še ne znam. Na Soleilu imamo tečaj, doma pa rad gledam risanke Dragonball
-v francoščini.
-
---- November 2018
+--- Januar 2019
