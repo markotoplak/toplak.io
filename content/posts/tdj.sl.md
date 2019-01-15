@@ -39,7 +39,8 @@ se poskušam vživeti v plesalce, a kljub temu ne morem iz svojih okvirov.
 Zame je dobra milonga sestavljena pretežno
 iz štirih močnih orkestrov: D'Arienzo, Di Sarli, Pugliese in Troilo. Vsi štirje
 so ustvarjali več desetletij in se vseskozi razvijali.
-Dlje kot plešem, raje imam velike štiri.
+Dlje kot plešem, raje imam velike štiri. Zdi se mi, da ima 
+vsak ton v njihovih skladbah nek poseben značaj.
 Tako raje kot zgodnjega Biagija predvajam zgodnjega D'Arienza, raje kot
 poznega Biagija predvajam poznega Di Sarlija,
 raje kot zgodnjega Demareta predvajam zgodnjega Di Sarlija, raje kot Caloja
@@ -76,7 +77,7 @@ Di Sarli:
 - [Ensueños](https://www.youtube.com/watch?v=hvBlroVfavc), 1943
 - [Tu intimo secreto](https://www.youtube.com/watch?v=Xbg6cTQ1Zys), 1945, poje Duran
 - [Fulgor](https://www.youtube.com/watch?v=B5IM4bryeys), 1953, poje Serpa
-- [Nueve puntos](https://www.youtube.com/watch?v=7IhZ_W8Xd9Y), 1956
+- [Viviani](https://www.youtube.com/watch?v=dKti6vi6-S0), 1956
 
 Troilo:
 

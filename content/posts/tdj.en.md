@@ -37,7 +37,8 @@ to emphasize with the dancers, but, still, I am limited by what I understand.
 
 For me, a good milonga is based on four strong orchestras: D'Arienzo, Di Sarli,
 Pugliese and Troilo. All four kept developing through multiple decades.
-The longer I dance, the more I appreciate them. I prefer early D'Arienzo
+The longer I dance, the more I appreciate them. It seems to me that every tone
+in their music carries a special feeling. I prefer early D'Arienzo
 to early Biagi, late Di Sarli to late Biagi, early Di Sarli to early Demare, Troilo
 to Calo.
 
@@ -70,7 +71,7 @@ Di Sarli:
 - [Ensueños](https://www.youtube.com/watch?v=hvBlroVfavc), 1943
 - [Tu intimo secreto](https://www.youtube.com/watch?v=Xbg6cTQ1Zys), 1945, sung by Duran
 - [Fulgor](https://www.youtube.com/watch?v=B5IM4bryeys), 1953, sung by Serpa
-- [Nueve puntos](https://www.youtube.com/watch?v=7IhZ_W8Xd9Y), 1956
+- [Viviani](https://www.youtube.com/watch?v=dKti6vi6-S0), 1956
 
 Troilo:
 
