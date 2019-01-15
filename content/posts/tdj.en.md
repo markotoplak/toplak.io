@@ -55,41 +55,7 @@ The great four
 The great four orchestras produced for decades and kept developing through
 all that time. I list their songs I particularly like.
 
-D'Arienzo:
-
-- [Mandria](https://www.youtube.com/watch?v=eK9BSnwClPI), 1939, sung by Echagüe
-- [Orquesta tipica](https://www.youtube.com/watch?v=AEXrqJtLfW4), 1941, sung by Reynal
-- [Con todo mi corazon](https://www.youtube.com/watch?v=y0h_IYl4lMU), 1946, sung by Echagüe
-- [Paciencia](https://www.youtube.com/watch?v=8Ql2G--3PAA), 1951, sung by Echagüe
-- [El puntazo](https://www.youtube.com/watch?v=kruo2tTat_M), 1951
-- [Yo me quedó con el tango (Susanita)](https://www.youtube.com/watch?v=FRJI5omHypc), 1957, sung by Echagüe
-
-Di Sarli:
-
-- [No te aguanto más](https://www.youtube.com/watch?v=eYPhovctZIo), 1929
-- [Cuando el amor muere](https://www.youtube.com/watch?v=bbEt3ODkZzs), 1941, sung by Acuña
-- [Ensueños](https://www.youtube.com/watch?v=hvBlroVfavc), 1943
-- [Tu intimo secreto](https://www.youtube.com/watch?v=Xbg6cTQ1Zys), 1945, sung by Duran
-- [Fulgor](https://www.youtube.com/watch?v=B5IM4bryeys), 1953, sung by Serpa
-- [Viviani](https://www.youtube.com/watch?v=dKti6vi6-S0), 1956
-
-Troilo:
-
-- [Maragata](https://www.youtube.com/watch?v=fKD-y9CiXPo), 1941, sung by Fiorentino
-- [Bien porteño](https://www.youtube.com/watch?v=fvSInmiQH0s), 1944
-- [Cotorrita de la suerte](https://www.youtube.com/watch?v=4-4ICSu4OV0), 1945, sung by Marino
-- [Confesión](https://www.youtube.com/watch?v=D8TdNbOHMGs), 1947, sung by Ruiz
-- [Mensaje](https://www.youtube.com/watch?v=mKOEecbSWDk), 1952, sung by Berón
-- [El motivo](https://www.youtube.com/watch?v=I9D0jlQcSg0), 1961, sung by Goyeneche
-
-Pugliese:
-
-- [Raza criolla](https://www.youtube.com/watch?v=ovJ6Pwqyhi0), 1945
-- [Corrientes y Esmeralda](https://www.youtube.com/watch?v=In9Q2uoL5ew), 1945, sung by Chanel
-- [Patetico](https://www.youtube.com/watch?v=pbOd-78blng), 1948
-- [Vieja Recova](https://www.youtube.com/watch?v=sJ2ruu7OMD0), 1950, sung by Vidal
-- [A la luz del candil](https://www.youtube.com/watch?v=3vcTwjRKxuc), 1954, sung by Montero
-- [Recuerdo](https://www.youtube.com/watch?v=RfxeWioT444), 1965, sung by Maciel
+{{< great_four >}}
 
 
 Sound quality

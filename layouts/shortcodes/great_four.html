@@ -1,0 +1,14 @@
+
+{{ range $.Site.Data.great_four.artist }}
+<p>{{ .name }}:</p>
+
+<ul>
+{{ range .song}}
+    <li><a href="{{ .link }}">{{ .name }}</a>,
+        {{ .year }}{{ if .singer }},
+        {{ i18n "greatFourSinger" }} {{ .singer }}{{ end }}
+    </li>
+{{ end }}
+</ul>
+
+{{ end }}
