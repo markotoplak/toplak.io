@@ -1,7 +1,7 @@
 ---
 title: "Najini tango nastopi"
 url: "/nastop/"
-images: ["/performance/linda-snap.jpg"]
+images: ["/performance/linda-snap2.jpg"]
 description: "Tako pleševa."
 date: 2018-12-28
 ---
