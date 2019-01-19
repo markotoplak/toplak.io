@@ -126,5 +126,5 @@ I am very grateful to all organizers who trusted me with their milongas.
 
 - Milonga Tangobar with concert of Trinidad Arfó, Ljubljana ([TangoDeep](https://facebook.com/tangoprofundo/)); back-to-back with Viacheslav Ivanov
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
-- Milonga Calesita with Sara Grdan and Ivanom Terrazas, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita with Sara Grdan and Ivan Terrazas, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
