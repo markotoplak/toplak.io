@@ -22,7 +22,7 @@ Popoln še ni: moje roke še vedno nosijo premalo teže. Bom še vadil.
 Ne poškoduj se
 --------------
 
-Ne bodi tako neumen kot sem bil jaz. Na silo sem poskušal narediti most.
+Ne bodi neumen kot jaz. Na silo sem poskušal narediti most.
 Uspelo mi je, ampak me je potem dva meseca bolel hrbet.
 
 Niti nisem bil tako nešporten. Redno sem plezal, tekel, kolesaril in

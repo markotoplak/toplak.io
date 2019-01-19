@@ -34,7 +34,7 @@ yes, but my other weak spots were:
 
 - **Wrists**. They were neither flexible nor strong. It hurt me if the angle
 between my forearms and wrists became sharper that 90 degrees. Whereas now,
-the position you see on latest videos---much more extreme that my old maximum---is now comfortable.
+the position you see on latest videos---much more extreme that my old maximum---is comfortable.
 
 - Low **flexibility in shoulders and hips**, which combined with 
 
