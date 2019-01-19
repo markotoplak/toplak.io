@@ -6,10 +6,21 @@
     <description>Recent content in Index on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bridge</title>
+      <link>https://toplak.io/bridge/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/bridge/</guid>
+      <description>Three years ago I could not do a bridge. It did not seem hard, but when I tried, I could not do it. I managed to lift myself up for a few centimeters for an instant, but that was it.
+That was years ago. Now I do it better. Video from January 2019:
+[Bridge, January 2019, video](/bridge/201901.s.mp4)  I should have more weight over my hands. I will fix it.</description>
+    </item>
     
     <item>
       <title>Our tango performances</title>
