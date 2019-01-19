@@ -18,8 +18,50 @@ Danes mi gre bolje. Video iz januarja 2019:
 
 Popoln še ni: moje roke še vedno nosijo premalo teže. Bom še vadil. 
 
-Razvoj mostu
-------------
+
+Ne poškoduj se
+--------------
+
+Ne bodi tako neumen kot sem bil jaz. Na silo sem poskušal narediti most.
+Uspelo mi je, ampak me je potem dva meseca bolel hrbet.
+
+Niti nisem bil tako nešporten. Redno sem plezal, tekel, kolesaril in
+plesal tango. Obiskal sem tudi tečaje 
+[hata joge in telovadbe](http://www.jogado.com/),
+kjer smo bili pozorni na nadzorovano in nenevarno rabo telesa.
+
+Kljub vsemu sem se poškodoval. Res je, da so bile mišice, ki bi me
+naj dvignile, prešibke (in sem se pač malo zaletel), 
+a imel sem tudi druge pomanjkljivosti:
+
+- **Zapestja**. Niso bila niti gibčna niti močna. Bolelo me je, če je bil
+kot med mojo podlahtjo in zapestjem manjši kot 90 stopinj. Zdajšnji
+polažaj na videih mi je udoben, čeprav je bolj ekstremen.
+
+- Slabo **gibljivost v ramenih in bokih**, kar je v kombinaciji s
+
+- premajhno **močjo in nadzzorom v trupu** povzročilo, da sem se 
+večinoma zvil v ledvenem delu hrbta.
+
+Le enkrat sem poskusil --- in pozdravljen, boleč hrbet. Sedaj se mi zdi,
+da sem imel srečo, da si nisem poškodoval še zapestij.
+
+Sedaj sem s seboj veliko bolj nežen.
+ 
+Da me hrbet ne bi več bolel, sem poskusil z vadbenim programom
+[GMB Elements](https://gmb.io/e/), ker se večinoma vadi na vseh
+štirih okončinah. Te vaje so mi okrepile hrbet in zapestja.
+Šele po nekaj mesecih  vaj sem spet poskusil z mostovi. 
+Začel sem počasi, zelo počasi,
+in se vedno ustavil, ko sem začutil bolečino.
+
+Bi lahko napredoval hitreje, če bi si upal priti bliže svojim mejam?
+Verjetno, a se mi ne mudi. Zadovoljen sem, če napredujem. Imam veliko
+časa, gimnastičar pa ne poskušam postati.
+
+
+Moj (počasen) napredek
+----------------------
 
 Ta vaja je del 
 [GMB Integral Strength](https://gmb.io/is/) vadbenega programa, kar pomeni,
