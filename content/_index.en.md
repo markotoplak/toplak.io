@@ -1,5 +1,7 @@
 ---
-title: Index
+title: Marko Toplak
+images: ["/markotoplak201808.jpg"]
+description: "A programmer and a researcher working with data. An argentine tango dancer and a climber."
 ---
 
 # Marko Toplak

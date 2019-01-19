@@ -1,5 +1,7 @@
 ---
-title: Kazalo
+title: Marko Toplak
+images: ["/markotoplak201808.jpg"]
+description: "Programer in raziskovalec. Plesalec argentinskega tanga in večen plezalski začetnik. "
 ---
 
 # Marko Toplak

@@ -2,17 +2,19 @@
 title: "Tango DJ"
 url: "/dj/"
 date: 2018-11-19
+images: ["/dj/kolasin-by-dusan-babic.jpg"]
+description: "I started dancing tango because I liked the music. Now I occasionally play it at milongas."
 ---
 
 I started dancing tango because I liked the music. Now 
-I occasionally play music at milongas. On this page:
+I occasionally play it at milongas. On this page:
 
 - [Being a tango DJ]({{<ref "#being-a-tango-dj" >}})
 - [The great four]({{<ref "#the-great-four" >}})
 - [Sound quality]({{<ref "#sound-quality" >}})
 - [Previous milongas]({{<ref "#previous-milongas" >}})
 
-[<img src="/tt_connoisseur_banner.png" style="max-width: 100%;"
+[<img src="/dj/tt_connoisseur_banner.png"
 alt="TangoTunes connoisseur badge" />](
 http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
 
@@ -76,7 +78,7 @@ or played by violins, bandoneons and the piano.
 These days, TangoTunes makes the best digital transfers. I bought enough
 to deserve the badge below.
 
-[<img src="/tt_connoisseur_banner.png" style="max-width: 100%;"
+[<img src="/dj/tt_connoisseur_banner.png"
 alt="TangoTunes connoisseur badge" />](
 http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
 
@@ -106,7 +108,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 - Milonga Belivol, Celje ([Milonguero?Sí!](https://www.milonguero.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
-- Summer Tango Camp, Kolašin, Črna gora ([Tango natural](http://tangonatural.com/))
+- Summer Tango Camp, Kolašin, Montenegro ([Tango natural](http://tangonatural.com/))
 - Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Afternoon milonga, Maribor ([MaTango](http://www.matango.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
@@ -128,3 +130,5 @@ I am very grateful to all organizers who trusted me with their milongas.
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Calesita with Sara Grdan and Ivan Terrazas, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+
+<img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić

@@ -1,5 +1,7 @@
 ---
 title: Zdaj
+images: ["/markotoplak201808.jpg"]
+description: "Programiram, telovadim, plešem tango, spim."
 url: zdaj
 ---
 

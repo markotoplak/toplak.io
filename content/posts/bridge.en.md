@@ -2,6 +2,8 @@
 title: "Bridge"
 url: "/bridge/"
 date: 2019-01-19
+images: ["/bridge/bridge-snap.jpg"]
+description: "When the impossible becomes ordinary with regular practice."
 ---
 
 Three years ago I could not do a bridge. It did not seem hard,

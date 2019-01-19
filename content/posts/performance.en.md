@@ -1,6 +1,8 @@
 ---
 title: "Our tango performances"
 url: "/performance/"
+images: ["/performance/linda-snap.jpg"]
+description: "This is how we dance."
 date: 2018-12-28
 ---
 

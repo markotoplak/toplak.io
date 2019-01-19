@@ -2,6 +2,8 @@
 title: "Most"
 url: "/most/"
 date: 2019-01-19
+images: ["/bridge/bridge-snap.jpg"]
+description: "Nekoč znanstvena fantastika. Sedaj, ob redni vaji, nekaj običajnega."
 ---
 
 Pred tremi leti se nikakor nisem mogel dvigniti v most. 

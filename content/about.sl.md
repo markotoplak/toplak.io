@@ -1,5 +1,7 @@
 ---
 title: O meni
+images: ["/markotoplak201808.jpg"]
+description: "O meni. Računalnikar, plesalec, gibalec?"
 url: o
 ---
 

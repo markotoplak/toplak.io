@@ -1,5 +1,7 @@
 ---
 title: About
+images: ["/markotoplak201808.jpg"]
+description: "About me. Computer geek, dancer, mover?"
 ---
 
 Computer geek
