@@ -10,6 +10,7 @@ url: zdaj
 - Programiram.
 - Telovadim.
 - Plešem tango.
+- Plezam.
 - In rad spim.
 
 Skoraj vsak dan se sprehodim do [Sinhrotrona Soleil](https://www.synchrotron-soleil.fr/)
@@ -25,8 +26,11 @@ Vsak dan [visim 7 minut](http://www.idoportal.com/blog/hanging).
 Viseti sem začel pred kakim tednom in me vedno bolj zabava.
 Če se opogumim, se stuširam z mrzlo vodo.
 
-Redno plešem na nedeljski popoldanski milongi (Dolce vita) in včasih še na petkovi (Oh la la).
-Izogibam se ponočevanju, zato grem z večerne milonge med prvimi.
+Blizu je čudovit gozd: [gozd Fontainebleau](/font/). Gozd, kjer na peščenih tleh
+rastejo pretežno borovci, je poln velikih skal, na katere
+poskušava plezati vsaj enkrat tedensko. Tam se mi zdi, kot da sem na morju.
+
+Redno plešem na nedeljski popoldanski milongi (Dolce vita).
 Doma pridno vadiva.
 
---- Januar 2019
+--- Marec 2019

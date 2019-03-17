@@ -9,6 +9,7 @@ I mainly:
 
 - Program.
 - Workout.
+- Climb.
 - Dance tango.
 - Sleep.
 
@@ -24,10 +25,13 @@ Every day I [hang for 7 minutes](http://www.idoportal.com/blog/hanging).
 I started a week ago and it is already becoming easier.
 When feeling courageous, I take a cold shower.
 
-I go to afternoon milonga on Sunday (Dolce vita) regularly. Sometimes I
-visit the Friday milonga (Oh la la), but there I leave among the first. I
+There is a wonderful place nearby: [Fontainebleau forest](/bleau/).
+The forest, where pine trees grow on a sandy ground---it reminds me of the seaside---is
+full of big rocks. We try to climb them once per week.
+
+I go to afternoon milonga on Sunday (Dolce vita) regularly. I
 avoid staying up late. We practice at home a lot.
 
---- January 2019
+--- March 2019
 
 
