@@ -6,10 +6,20 @@
     <description>Recent content on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fontainebleau for beginner climbers</title>
+      <link>https://toplak.io/bleau/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/bleau/</guid>
+      <description>Some say that you should not go to Fontainebleau if you are not a high level climber. I strongly disagree: also for beginners, it is one of the best climbing spots. I have not found such diverse problems at a single spot anywhere else.
+The Fontainebleau forest is covered with sandstone boulders, where generations of Parisians practised for long climbs in the Alps. Afterwards, bouldering developed as an independent activity.</description>
+    </item>
     
     <item>
       <title>Bridge</title>
@@ -61,7 +71,7 @@ Being a tango DJ In tango we always dance to, if I exaggerate a bit, to the same
       
       <guid>https://toplak.io/now/</guid>
       <description>I mainly:
- Program. Workout. Dance tango. Sleep.  During the week I walk to the Soleil Synchrotron, France, where I am a post-doc. I am trying to extend Orange, a visual programming toolkit for data analysis, so that it will handle spectral data and perhaps also data from tomography. We call our project Quasar.
+ Program. Workout. Climb. Dance tango. Sleep.  During the week I walk to the Soleil Synchrotron, France, where I am a post-doc. I am trying to extend Orange, a visual programming toolkit for data analysis, so that it will handle spectral data and perhaps also data from tomography. We call our project Quasar.
 If tango does not make me too tired, I follow the GMB Integral Strength workout program.</description>
     </item>
     
