@@ -6,10 +6,21 @@
     <description>Recent content on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tango DJ</title>
+      <link>https://toplak.io/dj/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/dj/</guid>
+      <description>I started dancing tango because I liked the music. Now I occasionally play it at milongas. On this page:
+ Being a tango DJ The great four Sound quality Previous milongas  
+Being a tango DJ In tango we always dance to, if I exaggerate a bit, to the same 25 songs. Still, each milonga feels special. If the selection of music&amp;mdash;order of songs and their combinations&amp;mdash;is good, everything flows better.</description>
+    </item>
     
     <item>
       <title>Fontainebleau for beginner climbers</title>
@@ -45,17 +56,6 @@ We were very nervous. We improvised everything&amp;mdash;nothing was set. I like
     </item>
     
     <item>
-      <title>Tango DJ</title>
-      <link>https://toplak.io/dj/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://toplak.io/dj/</guid>
-      <description>I started dancing tango because I liked the music. Now I occasionally play it at milongas. On this page:
- Being a tango DJ The great four Sound quality Previous milongas  
-Being a tango DJ In tango we always dance to, if I exaggerate a bit, to the same 25 songs. Still, each milonga feels special. If the selection of music&amp;mdash;order of songs and their combinations&amp;mdash;is good, everything flows better.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://toplak.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,7 +72,7 @@ Being a tango DJ In tango we always dance to, if I exaggerate a bit, to the same
       <guid>https://toplak.io/now/</guid>
       <description>I mainly:
  Program. Workout. Climb. Dance tango. Sleep.  During the week I walk to the Soleil Synchrotron, France, where I am a post-doc. I am trying to extend Orange, a visual programming toolkit for data analysis, so that it will handle spectral data and perhaps also data from tomography. We call our project Quasar.
-If tango does not make me too tired, I follow the GMB Integral Strength workout program.</description>
+I just started the GMB Rings 1 workout program. Even the simplest exercises on rings are hard.</description>
     </item>
     
   </channel>

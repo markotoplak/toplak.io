@@ -6,10 +6,21 @@
     <description>Recent content on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/sl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tango DJ</title>
+      <link>https://toplak.io/tdj/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/tdj/</guid>
+      <description>Tango sem začel plesati, ker mi je bila všeč glasba. Sedaj na milongah občasno predvajam glasbo. Na tej strani:
+ Biti tango DJ Veliki štirje Kakovost zvoka Prejšnje milonge  
+Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče.</description>
+    </item>
     
     <item>
       <title>Fontainebleau za plezalce začetnike</title>
@@ -47,17 +58,6 @@ Imela precejšno tremo. Še najbolje nama je uspela tretja pesem:
     </item>
     
     <item>
-      <title>Tango DJ</title>
-      <link>https://toplak.io/tdj/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://toplak.io/tdj/</guid>
-      <description>Tango sem začel plesati, ker mi je bila všeč glasba. Sedaj na milongah občasno predvajam glasbo. Na tej strani:
- Biti tango DJ Veliki štirje Kakovost zvoka Prejšnje milonge  
-Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče.</description>
-    </item>
-    
-    <item>
       <title>O meni</title>
       <link>https://toplak.io/o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -74,7 +74,8 @@ Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam -
       <guid>https://toplak.io/zdaj/</guid>
       <description>Živim preprosto:
  Programiram. Telovadim. Plešem tango. Plezam. In rad spim.  Skoraj vsak dan se sprehodim do Sinhrotrona Soleil (v Franciji), ker sem podoktorski raziskovalec. Orange, prijazno okolje za analizo podatkov, poskušam prepričati, da bo prežvečil podatke o spektrih in morda tudi tomografske podatke. Projektu rečemo Quasar.
-Če me tango ne utrudi preveč, vadim po GMB Integral Strength programu. Vsak dan visim 7 minut. Viseti sem začel pred kakim tednom in me vedno bolj zabava.</description>
+Vadim po GMB Rings 1 programu. Težje je, kot sem si mislil.
+Blizu je čudovit gozd: gozd Fontainebleau. Gozd, kjer na peščenih tleh rastejo pretežno borovci, je poln velikih skal, na katere poskušava plezati vsaj enkrat tedensko.</description>
     </item>
     
   </channel>

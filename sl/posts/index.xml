@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/sl/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tango DJ</title>
+      <link>https://toplak.io/tdj/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/tdj/</guid>
+      <description>Tango sem začel plesati, ker mi je bila všeč glasba. Sedaj na milongah občasno predvajam glasbo. Na tej strani:
+ Biti tango DJ Veliki štirje Kakovost zvoka Prejšnje milonge  
+Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče.</description>
+    </item>
     
     <item>
       <title>Fontainebleau za plezalce začetnike</title>
@@ -44,17 +55,6 @@ Ne poškoduj se Ne bodi neumen kot jaz.</description>
 December 2018 - Milonga Linda Povabili so naju, da nastopiva na Milongi Linda v Ljubljani. To je bil najin prvi nastop pred drugimi plesalci argentinskega tanga. Nastop naju je spodbudil, da sva vadila več.
 Imela precejšno tremo. Še najbolje nama je uspela tretja pesem:
  Anibal Troilo - El motivo  V bistvu sva najbolje plesala na dodatno pesem, kjer so se nama pridružili nastopajoči s prejšnjih Lind.</description>
-    </item>
-    
-    <item>
-      <title>Tango DJ</title>
-      <link>https://toplak.io/tdj/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://toplak.io/tdj/</guid>
-      <description>Tango sem začel plesati, ker mi je bila všeč glasba. Sedaj na milongah občasno predvajam glasbo. Na tej strani:
- Biti tango DJ Veliki štirje Kakovost zvoka Prejšnje milonge  
-Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče.</description>
     </item>
     
   </channel>
