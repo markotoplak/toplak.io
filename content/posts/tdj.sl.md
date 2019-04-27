@@ -1,7 +1,7 @@
 ---
 title: "Tango DJ"
 url: "/tdj/"
-date: 2018-11-19
+date: 2019-04-27
 images: ["/dj/kolasin-by-dusan-babic.jpg"]
 description: "Tango sem začel plesati zaradi glasbe. Sedaj jo na milongah občasno predvajam."
 ---
@@ -137,6 +137,10 @@ Organizatorjem, ki ste mi zaupali svoje milonge, se lepo zahvaljujem.
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Calesita s Saro Grdan in Ivanom Terrazasom, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+
+2019:
+
+- [Milonga La Dolce Vita](https://www.facebook.com/groups/milongaladolcevita/), Paris (organizirajo Jérémy, Ozgur, Claudio)
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić
 

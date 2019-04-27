@@ -20,11 +20,8 @@ da bo prežvečil
 podatke [o spektrih](https://github.com/quasars/orange-spectroscopy) in morda tudi
 tomografske podatke. Projektu rečemo [Quasar](https://quasar.codes).
 
-Če me tango ne utrudi preveč, vadim po
-[GMB Integral Strength](https://gmb.io/is/) programu. 
-Vsak dan [visim 7 minut](http://www.idoportal.com/blog/hanging).
-Viseti sem začel pred kakim tednom in me vedno bolj zabava.
-Če se opogumim, se stuširam z mrzlo vodo.
+Vadim po
+[GMB Rings 1](https://gmb.io/is/) programu. Težje je, kot sem si mislil.
 
 Blizu je čudovit gozd: [gozd Fontainebleau](/font/). Gozd, kjer na peščenih tleh
 rastejo pretežno borovci, je poln velikih skal, na katere
@@ -33,4 +30,6 @@ poskušava plezati vsaj enkrat tedensko. Tam se mi zdi, kot da sem na morju.
 Redno plešem na nedeljski popoldanski milongi (Dolce vita).
 Doma pridno vadiva.
 
---- Marec 2019
+Hitro se seliva nazaj v Slovenijo. Vračava se sredi maja.
+
+--- April 2019

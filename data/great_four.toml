@@ -3,21 +3,9 @@ name = "D'Arienzo"
 
 [[artist.song]]
 name = "Mandria"
-link = "https://www.youtube.com/watch?v=eK9BSnwClPI"
+link = "https://www.youtube.com/watch?v=NjHpTNWzVP8"
 singer = "Echagüe"
 year = 1939
-
-[[artist.song]]
-name = "Orquesta tipica"
-link = "https://www.youtube.com/watch?v=AEXrqJtLfW4"
-singer = "Reynal"
-year = 1941
-
-[[artist.song]]
-name = "Con todo mi corazon"
-link = "https://www.youtube.com/watch?v=y0h_IYl4lMU"
-singer = "Echagüe"
-year = 1946
 
 [[artist.song]]
 name = "Paciencia"
@@ -26,42 +14,20 @@ singer = "Echagüe"
 year = 1951
 
 [[artist.song]]
-name = "El puntazo"
-link = "https://www.youtube.com/watch?v=kruo2tTat_M"
-year = 1951
-singer = ""
-
-[[artist.song]]
-name = "Yo me quedó con el tango (Susanita)"
-link = "https://www.youtube.com/watch?v=FRJI5omHypc"
-year = 1957
-singer = "Echagüe"
+name = "Adios Chantecler"
+link = "https://www.youtube.com/watch?v=Zym1KjjUx3s"
+year = 1958
+singer = "Valdez"
 
 
 [[artist]]
 name = "Di Sarli"
 
 [[artist.song]]
-name = "No te aguanto más"
-link = "https://www.youtube.com/watch?v=eYPhovctZIo"
-year = 1929
-
-[[artist.song]]
 name = "Cuando el amor muere"
 link = "https://www.youtube.com/watch?v=bbEt3ODkZzs"
 year = 1941
 singer = "Acuña"
-
-[[artist.song]]
-name = "Ensueños"
-link = "https://www.youtube.com/watch?v=hvBlroVfavc"
-year = 1943
-
-[[artist.song]]
-name = "Tu intimo secreto"
-link = "https://www.youtube.com/watch?v=Xbg6cTQ1Zys"
-year = 1945
-singer = "Duran"
 
 [[artist.song]]
 name = "Fulgor"
@@ -85,34 +51,17 @@ year = 1941
 singer = "Fiorentino"
 
 [[artist.song]]
-name = "Bien porteño"
-link = "https://www.youtube.com/watch?v=fvSInmiQH0s"
-year = 1944
-singer = ""
-
-[[artist.song]]
-name = "Cotorrita de la suerte"
-link = "https://www.youtube.com/watch?v=4-4ICSu4OV0"
-year = 1945
-singer = "Marino"
-
-[[artist.song]]
 name = "Confesión"
 link = "https://www.youtube.com/watch?v=D8TdNbOHMGs"
 year = 1947
 singer = "Ruiz"
 
 [[artist.song]]
-name = "Mensaje"
-link = "https://www.youtube.com/watch?v=mKOEecbSWDk"
-year = 1952
-singer = "Berón"
-
-[[artist.song]]
 name = "El motivo"
 link = "https://www.youtube.com/watch?v=I9D0jlQcSg0"
 year = 1961
 singer = "Goyeneche"
+
 
 [[artist]]
 name = "Pugliese"
@@ -124,31 +73,13 @@ year = 1945
 singer = ""
 
 [[artist.song]]
-name = "Corrientes y Esmeralda"
-link = "https://www.youtube.com/watch?v=In9Q2uoL5ew"
-year = 1945
-singer = "Chanel"
-
-[[artist.song]]
-name = "Patetico"
-link = "https://www.youtube.com/watch?v=pbOd-78blng"
-year = 1948
-singer = ""
-
-[[artist.song]]
 name = "Vieja Recova"
 link = "https://www.youtube.com/watch?v=sJ2ruu7OMD0"
 year = 1950
 singer = "Vidal"
 
 [[artist.song]]
-name = "A la luz del candil"
-link = "https://www.youtube.com/watch?v=3vcTwjRKxuc"
-year = 1954
-singer = "Montero"
-
-[[artist.song]]
-name = "Recuerdo"
-link = "https://www.youtube.com/watch?v=RfxeWioT444"
-year = 1965
+name = "La vi llegar"
+link = "https://www.youtube.com/watch?v=gjLPyvbBV9Y"
+year = 1961
 singer = "Maciel"
