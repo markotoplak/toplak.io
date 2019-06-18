@@ -141,6 +141,7 @@ Organizatorjem, ki ste mi zaupali svoje milonge, se lepo zahvaljujem.
 2019:
 
 - [Milonga La Dolce Vita](https://www.facebook.com/groups/milongaladolcevita/), Paris (organizirajo Jérémy, Ozgur, Claudio)
+- Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić
 
