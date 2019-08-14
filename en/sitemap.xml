@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://toplak.io/connection/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/povezava/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/connection/"
+                />
+  </url>
+  
+  <url>
     <loc>https://toplak.io/dj/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
