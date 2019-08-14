@@ -13,8 +13,9 @@ I mainly:
 - Dance tango.
 - Sleep.
 
-During the week I walk to the [Soleil Synchrotron](https://www.synchrotron-soleil.fr/), France,
-where I am a post-doc. I am trying to extend [Orange](https://orange.biolab.si),
+This week I am in Minsk for a [summer school](https://biospecnorway.github.io/biospec-summerschool/) and a [conference](https://biospecnorway.github.io/BioSpecMLC2019/), where I teach and present Orange/Quasar.
+
+I am trying to extend [Orange](https://orange.biolab.si),
 a visual programming toolkit for data analysis, so that it will handle
 [spectral](https://github.com/quasars/orange-spectroscopy) data and perhaps
 also data from tomography. We call our project [Quasar](https://quasar.codes).
@@ -23,15 +24,8 @@ I just started the
 [GMB Rings 1](https://gmb.io/r1/) workout program. Even the simplest
 exercises on rings are hard.
 
-There is a wonderful place nearby: [Fontainebleau forest](/bleau/).
-The forest, where pine trees grow on a sandy ground---it reminds me of the seaside---is
-full of big rocks. We try to climb them once per week.
+Now I live in Slovenia. No more [Fontainebleau forest](/bleau/) for me. I do miss it. Instead, we go climbing to crags in Štajerska and to the gym.
 
-I go to afternoon milonga on Sunday (La Dolce Vita) regularly. I
-avoid staying up late. We practice at home a lot.
-
-These are my last days in France. Moving to Slovenia in mid-May.
-
---- April 2019
+--- August 2019
 
 

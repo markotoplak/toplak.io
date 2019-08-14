@@ -1,7 +1,7 @@
 ---
 title: "Tango DJ"
 url: "/dj/"
-date: 2019-04-27
+date: 2019-08-14
 images: ["/dj/kolasin-by-dusan-babic.jpg"]
 description: "I started dancing tango because I liked the music. Now I occasionally play it at milongas."
 ---
@@ -135,5 +135,8 @@ I am very grateful to all organizers who trusted me with their milongas.
 
 - [Milonga La Dolce Vita](https://www.facebook.com/groups/milongaladolcevita/), Paris (organized by Jérémy, Ozgur, Claudio)
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
+- Tanguera's Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić

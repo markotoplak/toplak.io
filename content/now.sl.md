@@ -13,8 +13,8 @@ url: zdaj
 - Plezam.
 - In rad spim.
 
-Skoraj vsak dan se sprehodim do [Sinhrotrona Soleil](https://www.synchrotron-soleil.fr/)
-(v Franciji), ker sem podoktorski raziskovalec.
+Ta teden sem v Minsku na [poletni šoli](https://biospecnorway.github.io/biospec-summerschool/) in [konferenci](https://biospecnorway.github.io/BioSpecMLC2019/), kjer učim in predstavljam Orange/Quasar.
+
 [Orange](https://orange.biolab.si), prijazno okolje za analizo podatkov, poskušam prepričati,
 da bo prežvečil
 podatke [o spektrih](https://github.com/quasars/orange-spectroscopy) in morda tudi
@@ -23,13 +23,7 @@ tomografske podatke. Projektu rečemo [Quasar](https://quasar.codes).
 Vadim po
 [GMB Rings 1](https://gmb.io/is/) programu. Težje je, kot sem si mislil.
 
-Blizu je čudovit gozd: [gozd Fontainebleau](/font/). Gozd, kjer na peščenih tleh
-rastejo pretežno borovci, je poln velikih skal, na katere
-poskušava plezati vsaj enkrat tedensko. Tam se mi zdi, kot da sem na morju.
+Zdaj, ko sem nazaj v Sloveniji, ne morem več v [gozd Fontainebleau](/font/). 
+Pogrešam ga. Namesto tega plezava na Štajerskem in v dvoranah.
 
-Redno plešem na nedeljski popoldanski milongi (Dolce vita).
-Doma pridno vadiva.
-
-Hitro se seliva nazaj v Slovenijo. Vračava se sredi maja.
-
---- April 2019
+--- Avgust 2019
