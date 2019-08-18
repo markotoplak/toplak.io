@@ -1,15 +1,15 @@
 ---
 title: "Connection in tango"
 url: "/connection/"
-date: 2019-08-14
+date: 2019-08-18
 description: "To dance diversely and in unison with our partner, we need to clearly feel their movement. And they need to clearly feel ours."
 ---
 
-Some years ago two girls came to the Carmencita milonga in Ljubljana. I saw them for the first time; it is unlikely they danced in Ljubljana before. I thought they were beginners. For the first hour they were just sitting in a corner and observing the milonga. I invited one of them to dance.
+Some years ago two girls came to the Carmencita milonga in Ljubljana. I saw them for the first time. I thought they were beginners. For the first hour they were just sitting in a corner and observing the milonga. Then I invited one of them to dance.
 
-When we started dancing, something felt odd. Her movement was unusually smooth and precise. She was a tiny girl, but, when we were dancing, she seemed so big! I knew exactly what she was doing: through our embrace I felt her feet! So much was happening that it seemed as we were dancing in slow motion. It was amazing! She was definitely not a beginner.
+When we started dancing, something felt odd. She was a tiny girl, but, when we were dancing, she seemed so big! I knew exactly what she was doing with her body: through our embrace I felt her feet! So much was happening that it seemed as we were dancing in slow motion. It was amazing! She was definitely not a beginner.
 
-I was very tired afterwards, but not because of her. She was never blocking me, never putting any weight on me, any force, any tension into our embrace. I just could not handle that much information. I was not used to so many details in each step&mdash;and that I saw my follower so clearly. More than I could handle, but still I wanted more!
+I was very tired afterwards, but not because of her. She was never blocking me, never hanging on me, never putting any force, any tension into our embrace. I just could not handle that much information. I was not used to so many details in each step&mdash;and that I see my follower so clearly. More than I could handle, but still I wanted more!
 
 I was watching her a lot. She could dance with anyone, she somehow managed to adapt. Later that evening we danced again. I never saw her since. She was only passing through Slovenia.
 
@@ -27,20 +27,20 @@ Diversity in movement
 
 If there is no diversity, we can not distinguish if the dancers are really working together so well or if they only have the same habits.
 
-With diversity I do not want to merely focus on different elements, like steps, crosses or ochos; instead, I would like to focus on different ways in which each element can be danced. For example, that we can do steps of different lengths or timings. That we can travel through the step with constant speed of that we change the speed somehow. That we can change shape in the step, like going up or down in the middle. That we can also step diagonally. That we can change direction during the step and therefore also make it circular. That we can dance without projections, with big projections, and with all variants in between. That pivots are not necessarily separate from steps, but that they can be overlap. That crosses are not always the same: they can be deep or shallow, with free leg right next to the standing leg or with feet apart.
+With diversity I do not want to merely focus on different elements, like steps, crosses or ochos; instead, I would like to focus on different ways in which each element can be danced. For example, that we can do steps of different lengths or timings. That we can travel through the step with constant speed of that we change the speed somehow. That we can change height in the step, like going up or down in the middle. That we can also step diagonally. That we can change direction during the step and therefore also make it circular. That we can dance without projections, with big projections, and with all variants in between. That pivots are not necessarily separate from steps, but that they can be overlap. That crosses are not always the same: they can be deep or shallow, with free leg right next to the standing leg or with feet apart.
 
-To me, a dance has diversity&mdash;and feels free&mdash;when we can adapt each movement to our feelings, music and dance floor. When we do not depend on habits or a particular style, but we build each movement from scratch, exactly as we want it.
+To me, a dance has diversity&mdash;and feels free&mdash;when we can adapt each movement to our feelings, music and dance floor. When we do not depend on habits or a particular style, but we try to build each movement from scratch, exactly as we want it.
 
-Connection starts with feeling our partner
-------------------------------------------
+Connection starts with feeling our partner's body
+-------------------------------------------------
 
-If I want to dance with diversity, there are too many possibilities for communication just with the embrace. Because I do not want to depend on a particular style, movement shapes are undefined. Therefore I have to go deeper, into feeling my partner's body and responding to changes in it, but she also has to feel me. Only when we feel each other, we can copy our movement and create something diverse and new.
+If I want to dance with diversity, there are too many possibilities for communication just with the embrace. Because I do not want to depend on a particular style, movement shapes are undefined. Therefore I have to go deeper, into feeling my partner's body and responding to changes in it, but she also has to feel me. Only when we feel each other, we can copy our movement and always create something new.
 
-To feel another body does not mean that someone puts weight on me, neither does it mean any resistance or pushing. With it, I mean feeling the muscles inside the partner's body working, and that feeling is gently transmitted through the embrace. It is physical, but not heavy.
+To feel our partner we do not need any pushing or sharing weight: the work of muscles inside our partner's body working can, if it is in a proper state, gently transmit through the embrace. Although there is no pressure (only touch), we feel physical changes.
 
 For a good connection I therefore need a well connected body and lots of attention. The dancer from Carmencita had exactly that. She was so good that I felt her, even though I was not aware that anything like that was even possible.
 
-I am very happy when I get to dance with someone whose body I can feel clearly. Although a connected body and dense movement seems basic&mdash;for me, a basis of any tango technique&mdash;it is only very experienced dancers that dance this way, with the exception of some lucky ones that just had it in them. Unfortunately, classes do not give it enough attention. I know we can learn it: I am sure that my partner Agnieszka learnt it well, and even I am slowly improving.
+I am very happy when I get to dance with someone whose body I can feel clearly. Although a connected body and dense movement seems basic&mdash;for me, a basis of tango technique&mdash;it is only very experienced dancers that dance this way, with the exception of some lucky ones that just had it in them. Unfortunately, classes do not give it enough attention. I know we can learn it: I am sure that my partner Agnieszka learnt it well, and even I am slowly improving.
 
 More
 ----
