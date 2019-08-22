@@ -7,7 +7,7 @@ description: "A programmer and a researcher working with data. An argentine tang
 # Marko Toplak
 
 [<img src="/markotoplak201808_h200.jpg" style="max-width: 20%; float:right; margin-left: 3px;" alt="Marko Toplak's headshot" />](/markotoplak201808.jpg)
-A programmer and a researcher working with data. An argentine tango dancer and a climber.
+A programmer and a researcher working with data. An argentine tango dancer (also [a DJ](/dj/)) and a climber.
 From Slovenia. Now living in Ljubljana.
 
 
