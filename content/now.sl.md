@@ -13,17 +13,17 @@ url: zdaj
 - Plezam.
 - In rad spim.
 
-Ta teden sem v Minsku na [poletni šoli](https://biospecnorway.github.io/biospec-summerschool/) in [konferenci](https://biospecnorway.github.io/BioSpecMLC2019/), kjer učim in predstavljam Orange/Quasar.
-
 [Orange](https://orange.biolab.si), prijazno okolje za analizo podatkov, poskušam prepričati,
 da bo prežvečil
 podatke [o spektrih](https://github.com/quasars/orange-spectroscopy) in morda tudi
 tomografske podatke. Projektu rečemo [Quasar](https://quasar.codes).
 
-Vadim po
-[GMB Rings 1](https://gmb.io/is/) programu. Težje je, kot sem si mislil.
+Ta semester asistiram pri predmetu Uvod v odkrivanje znanj iz podatkov na [Fakulteti za računalništvo in informatiko](https://www.fri.uni-lj.si) v Ljubljani.
+
+Telovadim po
+[GMB Integral Strength](https://gmb.io/is/) programu.
 
 Zdaj, ko sem nazaj v Sloveniji, ne morem več v [gozd Fontainebleau](/font/). 
-Pogrešam ga. Namesto tega plezava na Štajerskem in v dvoranah.
+Pogrešam ga. Namesto tega plezava v dvoranah.
 
---- Avgust 2019
+--- November 2019

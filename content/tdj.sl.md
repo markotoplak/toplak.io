@@ -14,6 +14,11 @@ predvajam glasbo. Na tej strani:
 - [Kakovost zvoka]({{<ref "#kakovost-zvoka" >}})
 - [Prejšnje milonge]({{<ref "#prejšnje-milonge" >}})
 
+Glasbo bom v kratkem predvajal na:
+
+- [Tanguera milonga November](https://www.facebook.com/events/536287487146506/), 23. november, ob 20.00
+- [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), 30. november, ob 16.30
+
 [<img src="/dj/tt_connoisseur_banner.png" 
 alt="TangoTunes connoisseur badge" />](
 http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
@@ -144,6 +149,7 @@ Organizatorjem, ki ste mi zaupali svoje milonge, se lepo zahvaljujem.
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 - Tanguering Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić
