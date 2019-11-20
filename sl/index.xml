@@ -6,10 +6,22 @@
     <description>Recent content on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/sl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tango tečaji</title>
+      <link>https://toplak.io/tecaji/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/tecaji/</guid>
+      <description>Z Vlasto Veselko učiva argentinski tango:
+ Začetni tečaj, ponedeljki ob 18.00 (skupina zaprta). Nadaljevalni tečaj, ponedeljki ob 20.00 (pridite poskusit!).  Tečaji potekajo v Plac 172. Tiste, ki že plešete, lepo vabiva, da se nama pridružite na nadaljevalnem tečaju. Tečaj poteka v mesečnih sklopih. Vedno se nama lahko pridružite na poskusni uri; če se za obisk tečaja ne odločite, je brezplačna.
+Skupina za začetni tečaj je zaprta.
+Vlasta Veselko je fantastična učiteljica in v Ljubljani redno uči še:</description>
+    </item>
     
     <item>
       <title>Povezava v tangu</title>
@@ -28,8 +40,9 @@ Ko sva začela plesati, mi nekaj ni šlo skupaj. Bila je le drobno dekle, a ko s
       
       <guid>https://toplak.io/tdj/</guid>
       <description>Tango sem začel plesati, ker mi je bila všeč glasba. Sedaj na milongah občasno predvajam glasbo. Na tej strani:
- Biti tango DJ Veliki štirje Kakovost zvoka Prejšnje milonge  
-Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi. Pa vseeno milonge občutim vedno drugače. Pri tem je izbor glasbe (zaporedje, kombinacija) precej pomemben. Če je dober, se zdi, da vse lepše teče.</description>
+ Biti tango DJ Veliki štirje Kakovost zvoka Prejšnje milonge  Glasbo bom v kratkem predvajal na:
+ Tanguera milonga November, 23. november, ob 20.00 Milonga Dulce Veneno, 30. november, ob 16.30  
+Biti tango DJ Na tango dogodkih skoraj vedno plešemo na - če malo pretiravam - istih 25 pesmi.</description>
     </item>
     
     <item>
@@ -83,9 +96,9 @@ Imela precejšno tremo. Še najbolje nama je uspela tretja pesem:
       
       <guid>https://toplak.io/zdaj/</guid>
       <description>Živim preprosto:
- Programiram. Telovadim. Plešem tango. Plezam. In rad spim.  Ta teden sem v Minsku na poletni šoli in konferenci, kjer učim in predstavljam Orange/Quasar.
-Orange, prijazno okolje za analizo podatkov, poskušam prepričati, da bo prežvečil podatke o spektrih in morda tudi tomografske podatke. Projektu rečemo Quasar.
-Vadim po GMB Rings 1 programu. Težje je, kot sem si mislil.
+ Programiram. Telovadim. Plešem tango. Plezam. In rad spim.  Orange, prijazno okolje za analizo podatkov, poskušam prepričati, da bo prežvečil podatke o spektrih in morda tudi tomografske podatke. Projektu rečemo Quasar.
+Ta semester asistiram pri predmetu Uvod v odkrivanje znanj iz podatkov na Fakulteti za računalništvo in informatiko v Ljubljani.
+Telovadim po GMB Integral Strength programu.
 Zdaj, ko sem nazaj v Sloveniji, ne morem več v gozd Fontainebleau.</description>
     </item>
     
