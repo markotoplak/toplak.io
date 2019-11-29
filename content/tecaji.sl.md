@@ -8,7 +8,7 @@ description: "Z Vlasto Veselko učiva ob ponedeljkih: ob 18.00 začetni tečaj, 
 Z [Vlasto Veselko](https://vlastaveselko.wordpress.com/) učiva argentinski tango:
 
 - Začetni tečaj, ponedeljki ob 18.00 _(skupina zaprta)_.
-- Nadaljevalni tečaj, ponedeljki ob 20.00 _(pridite poskusit!)._
+- Nadaljevalni tečaj, ponedeljki ob 20.00.
 
 Tečaji potekajo v [Plac 172](https://www.facebook.com/plac172/). Tiste, ki že plešete, lepo vabiva, da se nama pridružite na nadaljevalnem tečaju. Tečaj poteka v mesečnih sklopih. Vedno se nama lahko pridružite na poskusni uri; če se za obisk tečaja ne odločite, je brezplačna. 
 
@@ -20,6 +20,15 @@ Skupina za začetni tečaj je zaprta.
 - Tango telo, četrtki ob 20.00, [Plac 172](https://www.facebook.com/plac172/).
 
 Prijave in dodatna vprašanja: drustvotanguera@gmail.com.
+
+
+Nadaljevalni tečaj, decembra: Moje pesmi, moje sanje
+----------------------------------------------------
+
+Vsi radi plešemo z glasbo. Takrat se počutimo, da nam gre vse lažje od rok/nog ;)
+Za to jo moramo slišati ter jo tudi znati utelesiti. Na tečajih bomo v glasbi iskali ritem, značaj in dialog. Vadili bomo, kako gib prilagodimo glasbi, in spoznavali, kako to v paru naredimo udobno. Želiva, da najdete nove možnosti za svoj izraz.
+
+Ponedeljki ob 20.00 v [Plac 172](https://www.facebook.com/plac172/). Lepo vabljeni.
 
 
 Nivoji tanga
