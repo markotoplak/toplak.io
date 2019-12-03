@@ -14,11 +14,6 @@ I occasionally play it at milongas. On this page:
 - [Sound quality]({{<ref "#sound-quality" >}})
 - [Previous milongas]({{<ref "#previous-milongas" >}})
 
-Next, I will be playing at:
-
-- [Tanguera milonga November](https://www.facebook.com/events/536287487146506/), 23 November
-- [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), 30 November
-
 [<img src="/dj/tt_connoisseur_banner.png"
 alt="TangoTunes connoisseur badge" />](
 http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
@@ -143,6 +138,8 @@ I am very grateful to all organizers who trusted me with their milongas.
 - Tanguera's Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Tanguera milonga, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), Ljubljana (PMS - Peter, Marta, Sanja)
 
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić
