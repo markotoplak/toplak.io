@@ -140,6 +140,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Tanguera milonga, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), Ljubljana (PMS - Peter, Marta, Sanja)
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić
