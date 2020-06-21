@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marko Toplak</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Marko Toplak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://toplak.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tango classes</title>
+      <link>https://toplak.io/classes/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://toplak.io/classes/</guid>
+      <description>I teach regular classes with Vlasta Veselko. Our classes are in Slovenian, so please check my Slovenian description or Vlasta&amp;rsquo;s page.</description>
+    </item>
     
     <item>
       <title>Connection in tango</title>

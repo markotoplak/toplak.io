@@ -1,6 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://toplak.io/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/classes/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/tecaji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/classes/"
+                />
+  </url>
   
   <url>
     <loc>https://toplak.io/connection/</loc>
@@ -14,6 +44,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toplak.io/connection/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/posts/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/posts/"
                 />
   </url>
   
@@ -82,7 +127,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://toplak.io/o/"
+                href="https://toplak.io/sl/o/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -93,7 +138,6 @@
   
   <url>
     <loc>https://toplak.io/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -107,26 +151,11 @@
   </url>
   
   <url>
-    <loc>https://toplak.io/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://toplak.io/sl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://toplak.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://toplak.io/now/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="https://toplak.io/zdaj/"
+                href="https://toplak.io/sl/zdaj/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -136,24 +165,7 @@
   </url>
   
   <url>
-    <loc>https://toplak.io/posts/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://toplak.io/sl/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://toplak.io/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://toplak.io/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
