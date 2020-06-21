@@ -2,7 +2,7 @@
 title: Now
 images: ["/markotoplak201808.jpg"]
 description: "I program, workout, dance tango, sleep."
-url: now
+url: "/now/"
 ---
 
 I mainly:

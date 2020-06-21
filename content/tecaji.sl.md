@@ -12,35 +12,30 @@ Z [Vlasto Veselko](https://vlastaveselko.wordpress.com/) učiva argentinski tang
 
 Tečaji potekajo v [Plac 172](https://www.facebook.com/plac172/). Tiste, ki že plešete, lepo vabiva, da se nama pridružite na nadaljevalnem tečaju. Tečaj poteka v mesečnih sklopih. Vedno se nama lahko pridružite na poskusni uri; če se za obisk tečaja ne odločite, je brezplačna. 
 
-Skupina za začetni tečaj je zaprta.
+Nadaljevalnemu tečaju lahko pridružite vsak mesec.
 
 [Vlasta Veselko](https://vlastaveselko.wordpress.com/) je fantastična učiteljica in v Ljubljani redno uči še:
 
-- Tango Young, tango za mlade do 30, četrtki ob 18.00, [Plac 172](https://www.facebook.com/plac172/).
-- Tango telo, četrtki ob 20.00, [Plac 172](https://www.facebook.com/plac172/).
-- Začetni tečaj, petki ob 20.15 _(prijavite se!)_.
+- Tango Young, tango za mlade do 30, [Plac 172](https://www.facebook.com/plac172/); spet bo jeseni.
+- Tango telo, četrtki ob 19.00, [Plac 172](https://www.facebook.com/plac172/).
 
 Prijave in dodatna vprašanja: drustvotanguera@gmail.com.
 
 
-Nadaljevalni tečaj, januarja: Zaprti objem
-------------------------------------------
+Učiteljski fokus
+----------------
 
-Peti sklop našega nadaljevalnega tečaja je namenjen zaprtemu objemu, komponenti, ki dela tango tako poseben. Kjer dve telesi "postaneta eno", ki se premika s štirimi nogami.
+Zame kombinacija svobode in sodelovanja, ki mi naredita tango, izhajata iz natančnosti. Temelj natančnosti je povezano gibanje telesa posameznika, kar omogoči [kvalitevno povezavo](/povezava/) brez sile. V paru se moramo poleg tega zavedati možnih poti teles, ki ohranjajo celost gibanja obeh partnerjev; potrebno se je zavedati geometrije v tangu.
 
-Prvo vprašanje, ki se v tako bližnji komunikaciji med dvema pojavi, je seveda stvar prostora. Kako obvladovati geometrijo dveh teles, da se lahko udobno premikava? Kaj se dogaja z osjo posameznika? A je potrebno kaj "žrtvovati", da lahko plešemo v zaprtem objemu...?
+Če se ne zavedamo ali izgubimo karkoli od zgornjega, tango pade. Ponavadi tega niti ne opazimo. Primanjkljaje kompenziramo z uporabo odvečne sile; v ples vnašamo nepotrebne napetosti. Še težje opazimo navade; te nam kradejo izraznost.
 
-Pomembna komponenta plesa v zaprtem objemu je tudi zaupanje. Drug v drugega. Zaupanje, da vodeči ve, kaj dela, da čuti sledečega in da sledeči zna razbrati vodstvo in se bo premaknil.
-
-In še zanimivo vprašanje vloge tehnike gibanja in obvladovanja lastnega telesa pri zaprtem objemu.
-
-Ponedeljki ob 20.00 v [Plac 172](https://www.facebook.com/plac172/). Lepo vabljeni.
+Pri učenju se zato osredotočam na učinkovito gibanje teles, najprej posamezno in nato v paru. Zaporedja korakov mi niso pomembna, pomembneje se mi zdi, kako jih izvajamo. Želim, da učenci dojamejo, kaj naj počnejo in zakaj. Razmišljanje "zakaj tako?" se mi zdi nujen del učenja. Tak pedagoški pristop omogoča trajen napredek, a od učencev zahteva trdo delo.
 
 
 Nivoji tanga
 ------------
 
-Nekako tako bi razdelil nivoje tečajev, ki jih učiva z Vlasto.
+Držim se sledečd razdelitve nivojev tečajev.
 
 __Začetni nivo.__ Spoznavamo svoja telesa, ozaveščamo naše gibanje, držo. S partnerjem se premikamo hkrati v preprostejših zaporedjih. Privajamo se glasbi in plesišču. _Ob ponedeljkih ob 18.00 (skupina zaprta)._
 
@@ -68,3 +63,19 @@ Sklop "dovolj prostora za oba" je namenjen prepoznavanju pomembnosti geometrije 
 
 __Moje pesmi, moje sanje.__
 Vsi radi plešemo z glasbo. Takrat se počutimo, da nam gre vse lažje od rok/nog. Za to jo moramo slišati ter jo tudi znati utelesiti. Na tečajih bomo v glasbi iskali ritem, značaj in dialog. Vadili bomo, kako gib prilagodimo glasbi, in spoznavali, kako to v paru naredimo udobno. Želiva, da najdete nove možnosti za svoj izraz.
+(december 2019)
+
+__Zaprt objem.__
+Peti sklop našega nadaljevalnega tečaja je namenjen zaprtemu objemu, komponenti, ki dela tango tako poseben. Kjer dve telesi "postaneta eno", ki se premika s štirimi nogami.
+Prvo vprašanje, ki se v tako bližnji komunikaciji med dvema pojavi, je seveda stvar prostora. Kako obvladovati geometrijo dveh teles, da se lahko udobno premikava? Kaj se dogaja z osjo posameznika? A je potrebno kaj "žrtvovati", da lahko plešemo v zaprtem objemu...?
+Pomembna komponenta plesa v zaprtem objemu je tudi zaupanje. Drug v drugega. Zaupanje, da vodeči ve, kaj dela, da čuti sledečega in da sledeči zna razbrati vodstvo in se bo premaknil.
+In še zanimivo vprašanje vloge tehnike gibanja in obvladovanja lastnega telesa pri zaprtem objemu.
+(januar 2020)
+
+__Valček in kroženje.__
+Kako plesati krožna gibanje z vodenjem in sledenjem smeri vsakega koraka posebej. Zaokroževanje korakov. Iskanje zveznosti v plesu.
+(februar 2020)
+
+__Milonga.__
+Vadba milonge. Traspie. Različne hitrosti. Različni značaji milong; sprememba karakterja plesa ob spremembi značaja pesmi.
+(marec 2020; prekinjen zaradi COVID-19)

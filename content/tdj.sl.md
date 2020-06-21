@@ -81,7 +81,7 @@ v melodijah. Te so ponavadi pete, ali pa jih zaigrajo violine, bandoneoni
 in klavir.
 
 Najboljše posnetke iz zlate dobe tanga digitalizirajo pri založbi TangoTunes.
-Pri njih sem ji kupil dovolj, da sem si zaslužil spodnjo plaketo.
+Pri njih sem jih kupil dovolj, da sem si zaslužil spodnjo plaketo.
 
 [<img src="/dj/tt_connoisseur_banner.png" 
 alt="TangoTunes connoisseur badge" />](
@@ -91,10 +91,7 @@ http://blog.tangotunes.com/tangotunes-connoisseur-quality-music-badge/)
 Prejšnje milonge
 ----------------
 
-Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti.
-Vsakič, ko predvajam, vidim možne izboljšave.
-
-Organizatorjem, ki ste mi zaupali svoje milonge, se lepo zahvaljujem.
+Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorjem, ki ste mi zaupali svoje milonge, se lepo zahvaljujem.
 
 
 2015:
@@ -147,6 +144,9 @@ Organizatorjem, ki ste mi zaupali svoje milonge, se lepo zahvaljujem.
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Tanguera milonga, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), Ljubljana (PMS - Peter, Marta, Sanja)
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+
+2020:
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 
