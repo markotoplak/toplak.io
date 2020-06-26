@@ -81,19 +81,19 @@ Imela precejšno tremo. Še najbolje nama je uspela tretja pesem:
     
     <item>
       <title>O meni</title>
-      <link>https://toplak.io/sl/o/</link>
+      <link>https://toplak.io/o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toplak.io/sl/o/</guid>
+      <guid>https://toplak.io/o/</guid>
       <description>Računalnikar Programirati sem začel v zadnjih razredih osnovne šole. Znati programirati se mi je zdelo frajersko. Nekaj let sem poskušal naučiti pascala, a dlje od prepisovanja primerov nisem prišel. Postavljal sem tudi spletne strani, a to ni bilo pravo programiranje. Kako razmišljati kot programer sem zaslutil šele, ko sem bil v programiranje prisiljen: želel sem postaviti IRC bota na VAX/VMS strežniku. Na njem je tekel IRC odjemalec z možnostjo pisanja skript.</description>
     </item>
     
     <item>
       <title>Zdaj</title>
-      <link>https://toplak.io/sl/zdaj/</link>
+      <link>https://toplak.io/zdaj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toplak.io/sl/zdaj/</guid>
+      <guid>https://toplak.io/zdaj/</guid>
       <description>Živim preprosto:
  Programiram. Telovadim. Plešem tango. Plezam. In rad spim.  Orange, prijazno okolje za analizo podatkov, poskušam prepričati, da bo prežvečil podatke o spektrih in morda tudi tomografske podatke. Projektu rečemo Quasar.
 Ta semester asistiram pri predmetu Uvod v odkrivanje znanj iz podatkov na Fakulteti za računalništvo in informatiko v Ljubljani.
