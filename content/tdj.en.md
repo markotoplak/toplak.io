@@ -120,7 +120,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 - [Kyiv Tango Marathon](http://www.tangomarathon.kiev.ua/), Kyiv, Ukraine (organised by Julia Serzhan)
 - Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Piramida, Maribor ([MaTango](http://www.matango.si/))
-- Luna Tango Gathering, Mokrice (organised by Anja Furlan)
+- Luna Tango Gathering, Mokrice (marathon; organised by Anja Furlan)
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/)); back-to-back with Blaž Branc
 
@@ -144,6 +144,19 @@ I am very grateful to all organizers who trusted me with their milongas.
 
 2020:
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Tanguera, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+
+2021:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/)) - summer version
+
+2022:
+- Practica Tanguera, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- Milonga Tanguera, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- Milonguita Drama, Ljubljana ([tango.si](http://www.tango.si/))
+
+2023:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+
 
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić

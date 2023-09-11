@@ -124,7 +124,7 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 - [Kyiv Tango Marathon](http://www.tangomarathon.kiev.ua/), Kiev, Ukrajina (organizirala Julia Serzhan)
 - Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Piramida, Maribor ([MaTango](http://www.matango.si/))
-- Luna Tango Gathering, Mokrice (organizirala Anja Furlan)
+- Luna Tango Gathering, Mokrice (maraton, organizirala Anja Furlan)
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/)); back-to-back z Blažem Brancem
 
@@ -147,6 +147,18 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 2020:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/)) - zadnja pred marčevskim zaprtjem
+- Milonga Tanguera, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+
+2021:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/)) - v poletni verziji pred dvorano
+
+2022:
+- Praktika Tanguera, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- Milonga Tanguera, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- Milonguita Drama, Ljubljana ([tango.si](http://www.tango.si/))
+
+2023:
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 
