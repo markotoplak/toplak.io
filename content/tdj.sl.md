@@ -1,7 +1,7 @@
 ---
 title: "Tango DJ"
 url: "/tdj/"
-date: 2019-08-14
+date: 2023-09-25
 images: ["/dj/kolasin-by-dusan-babic.jpg"]
 description: "Tango sem začel plesati zaradi glasbe. Sedaj jo na milongah občasno predvajam."
 ---
@@ -48,13 +48,12 @@ poznega Biagija predvajam poznega Di Sarlija,
 raje kot zgodnjega Demareta predvajam zgodnjega Di Sarlija, raje kot Caloja
 predvajam Troila.
 
-Ostali orkestri so zame le začimba. Zelo so mi všeč Laurenz, D'Agostino, in Tanturi.
-Spogledujem se tudi z novejšo glasbo, recimo s Quintetom Real,
-a si je na milongi še nisem upal predvajati.
+Ostali orkestri so zame le začimba. Zelo so mi všeč Laurenz, D'Agostino, in Fresedo.
+Spogledujem se tudi z novejšo glasbo: najraje imam Tango Bardo.
 
 Ne predvajam glasbe, ki me dolgočasi. Ne razumem je, zato je tudi ne morem kombinirati
 in umestiti v večer. Ne predvajam orkestrov De Angelis, Rodriguez in
-Canaro (po 1935).
+večine Canara.
 
 
 Veliki štirje
@@ -160,6 +159,7 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 
 2023:
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić

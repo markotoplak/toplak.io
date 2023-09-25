@@ -1,7 +1,7 @@
 ---
 title: "Tango DJ"
 url: "/dj/"
-date: 2019-08-14
+date: 2023-09-25
 images: ["/dj/kolasin-by-dusan-babic.jpg"]
 description: "I started dancing tango because I liked the music. Now I occasionally play it at milongas."
 ---
@@ -44,12 +44,11 @@ in their music carries a special feeling. I prefer early D'Arienzo
 to early Biagi, late Di Sarli to late Biagi, early Di Sarli to early Demare, Troilo
 to Calo.
 
-I play other orchestras sparingly. I love Laurenz, D'Agostino, and Tanturi.
-Lately I also like to dance to newer tangos, like Quinteto Real,
-but I do not yet dare to play them publicly.
+I play other orchestras sparingly. I love Laurenz, D'Agostino, and Fresedo.
+I also like to dance to newer tangos. My favorite modern orchestra is Tango Bardo.
 
 I can not play music I find boring. I do not understand it, so I can not blend it into the evening well.
-I do not play orchestras of De Angelis, Rodriguez or Canaro (after 1935).
+I do not play orchestras of De Angelis, Rodriguez or most Canaro.
 
 The great four
 --------------
@@ -156,7 +155,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 
 2023:
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
-
+- Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić

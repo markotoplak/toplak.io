@@ -57,10 +57,10 @@ year = 1947
 singer = "Ruiz"
 
 [[artist.song]]
-name = "El motivo"
-link = "https://www.youtube.com/watch?v=I9D0jlQcSg0"
-year = 1961
-singer = "Goyeneche"
+name = "Chique"
+link = "https://www.youtube.com/watch?v=VLlgxo11S3M"
+year = 1952
+singer = ""
 
 
 [[artist]]
@@ -73,10 +73,10 @@ year = 1945
 singer = ""
 
 [[artist.song]]
-name = "Vieja Recova"
-link = "https://www.youtube.com/watch?v=sJ2ruu7OMD0"
-year = 1950
-singer = "Vidal"
+name = "Corazoneando"
+link = "https://www.youtube.com/watch?v=NrE7FDFVM1c"
+year = 1958
+singer = ""
 
 [[artist.song]]
 name = "La vi llegar"
