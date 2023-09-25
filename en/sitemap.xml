@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://toplak.io/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -14,6 +14,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toplak.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/dj/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/tdj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/dj/"
                 />
   </url>
   
@@ -59,21 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toplak.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://toplak.io/dj/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://toplak.io/tdj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://toplak.io/dj/"
                 />
   </url>
   
