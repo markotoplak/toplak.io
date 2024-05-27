@@ -16,7 +16,7 @@ Povabili so naju, da nastopiva na Milongi Linda v Ljubljani. To je bil najin
 prvi nastop pred drugimi plesalci argentinskega tanga. Nastop naju je
 spodbudil, da sva vadila več.
 
-Imela precejšno tremo. Še najbolje nama je uspela tretja pesem:
+Imela sva precejšno tremo. Še najbolje nama je uspela tretja pesem:
 
 - [Anibal Troilo - El motivo](https://www.youtube.com/watch?v=uTiSXGaSoFA)
 
