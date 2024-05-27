@@ -93,6 +93,56 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
 <meta property="article:published_time" content="2019-01-19T00:00:00+00:00" />
 <meta property="article:modified_time" content="2019-01-19T00:00:00+00:00" />
 
+    
+
+<style>
+.youtube-container {
+  width: 640px;  
+  display: block; position: relative; margin-bottom: 10px;
+}
+.youtube-container .video-placeholder { position: relative; }
+.youtube-container .video-placeholder .video-player-button {
+  position: absolute; left: 50%; top: 50%; width: 96px; height: 96px; margin: -44px 0 0 -44px; cursor: pointer;
+}
+.youtube-container .video-placeholder .video-snapshot-image { width: 100%; }
+.youtube-container .video-placeholder .overlay {
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+}
+.youtube-container .video-placeholder .overlay span {
+  position: absolute; display: inline-block; color: white; left: 0;
+  width: 100%; background-color: rgba(#000, 0.5);  padding: 8px 12px;
+}
+.youtube-container .video-placeholder .overlay .notice {
+  bottom: 0; font-size: 13px;
+}
+.youtube-container .video-placeholder .overlay .notice a {
+  border-bottom: none; color: white; position: relative; float: right; font-size: 18px; margin-top: -3px;
+}
+</style>
+
+<script>
+window.addEventListener("load", function () {
+  const v = document.getElementsByClassName('youtube-container');
+  function updateVideo() {
+    const id = this.id.replace('vid-', '');
+    const w = this.clientWidth;
+    const h = this.clientHeight;
+    this.innerHTML =
+      '<iframe src="//www.youtube.com/embed/' + id +
+      '?autoplay=1" frameborder="0" width="' + w + '" height="' + h + '" allowfullscreen></iframe>';
+  }
+  for (i = 0; i < v.length; i++) {
+    v[i].addEventListener("click", updateVideo);
+  }
+  const lbl = document.getElementsByClassName('youtube-placeholder-label');
+  for (i = 0; i < lbl.length; i++) {
+    lbl[i].addEventListener("click", function(e) {
+      e.stopPropagation = true;
+      e.cancelBubble = true;
+    });
+  }
+});
+</script>
   </head>
 
   <body>
