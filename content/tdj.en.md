@@ -157,5 +157,8 @@ I am very grateful to all organizers who trusted me with their milongas.
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
+2024:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić

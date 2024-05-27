@@ -161,6 +161,8 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
+2024:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić
 

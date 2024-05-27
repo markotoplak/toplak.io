@@ -1,29 +1,27 @@
 ---
 title: Zdaj
 images: ["/markotoplak201808.jpg"]
-description: "Programiram, telovadim, plešem tango, spim."
+description: "Starš, učitelj, programer, plesalec tanga."
 url: "/zdaj/"
 ---
 
-Živim preprosto:
+Več ali manj:
 
+- Se igram s svojim 3-letnikom.
+- Učim analizo podatkov.
 - Programiram.
-- Telovadim.
 - Plešem tango.
-- Plezam.
-- In rad spim.
 
 [Orange](https://orange.biolab.si), prijazno okolje za analizo podatkov, poskušam prepričati,
 da bo prežvečil
 podatke [o spektrih](https://github.com/quasars/orange-spectroscopy) in morda tudi
 tomografske podatke. Projektu rečemo [Quasar](https://quasar.codes).
 
-Ta semester asistiram pri predmetu Uvod v odkrivanje znanj iz podatkov na [Fakulteti za računalništvo in informatiko](https://www.fri.uni-lj.si) v Ljubljani.
+Ta semester asistiram pri dveh predmetih na [Fakulteti za računalništvo in informatiko](https://www.fri.uni-lj.si) v Ljubljani: (1) Uvod v odkrivanje znanj iz podatkov in (2) Strojno učenje za podatkovne vede 1. Za kaj drugega niti nima časa. Kar nekaj stvari v Orange-u čaka. 
 
 Telovadim po
-[GMB Integral Strength](https://gmb.io/is/) programu.
+[GMB Elements](https://gmb.io/e/) programu.
 
-Zdaj, ko sem nazaj v Sloveniji, ne morem več v [gozd Fontainebleau](/font/). 
-Pogrešam ga. Namesto tega plezava v dvoranah.
+Živim v Ljubljani. Pred mesecem smo se preselili, in to cela 2 kilometra vstran. Opazil sem, da te strani nisem posodobil celih 5 let.
 
---- November 2019
+--- Maj 2024
