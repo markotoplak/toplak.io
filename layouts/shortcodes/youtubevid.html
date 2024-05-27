@@ -1,0 +1,14 @@
+<div class="youtube-container" id='vid-{{ .Get "id" }}'>
+  <div class="video-placeholder">
+    <img src='{{ .Get "img" }}' alt='Embedded video: {{ .Get "title" }}' class="video-snapshot-image" />
+    <div class="overlay">
+      <span class="title youtube-placeholder-label">
+        {{ .Get "title" }}
+      </span>
+      <span class="notice youtube-placeholder-label">
+         {{ T "youtubecookies" }}
+      </span>
+    </div>
+    <img src="/youtube/video-player-button.svg" alt="Play video" class="video-player-button" />
+  </div>
+</div>
