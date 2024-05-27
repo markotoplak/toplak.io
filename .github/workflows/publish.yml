@@ -1,8 +1,8 @@
 name: Push to GitHub Pages on push to master
 on:
-  schedule:
-    # every day at midnight: https://crontab.guru/every-midnight
-    - cron:  '0 0 * * *'
+  #schedule:
+  #  # every day at midnight: https://crontab.guru/every-midnight
+  #  - cron:  '0 0 * * *'
 
   push:
     branches:
@@ -10,6 +10,7 @@ on:
   pull_request:
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
   build:
