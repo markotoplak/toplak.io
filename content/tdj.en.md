@@ -102,7 +102,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 
 - Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Toastanje, Ljubljana ([Tango utrip](http://tangoutrip.si/))
-- Milonga Calesita, Ljubljana ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita, Ljubljana ([Calesita tango](http://www.calesitatango.si/))
 - Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Belivol, Celje ([Milonguero?Sí!](https://www.milonguero.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
@@ -127,7 +127,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 
 - Milonga Tangobar with concert of Trinidad Arfó, Ljubljana ([TangoDeep](https://facebook.com/tangoprofundo/)); back-to-back with Viacheslav Ivanov
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
-- Milonga Calesita with Sara Grdan and Ivan Terrazas, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita with Sara Grdan and Ivan Terrazas, Ljubljana, ([Calesita tango](http://www.calesitatango.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 2019:
@@ -135,7 +135,7 @@ I am very grateful to all organizers who trusted me with their milongas.
 - [Milonga La Dolce Vita](https://www.facebook.com/groups/milongaladolcevita/), Paris (organized by Jérémy, Ozgur, Claudio)
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 - Tanguera's Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
-- Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Tanguera milonga, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), Ljubljana (PMS - Peter, Marta, Sanja)

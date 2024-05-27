@@ -106,7 +106,7 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 
 - Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Toastanje, Ljubljana ([Tango utrip](http://tangoutrip.si/))
-- Milonga Calesita, Ljubljana ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita, Ljubljana ([Calesita tango](http://www.calesitatango.si/))
 - Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Belivol, Celje ([Milonguero?Sí!](https://www.milonguero.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
@@ -131,7 +131,7 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 
 - Milonga Tangobar s koncertom Trinidad Arfó, Ljubljana ([TangoDeep](https://facebook.com/tangoprofundo/)); back-to-back z Viacheslavom Ivanovim
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
-- Milonga Calesita s Saro Grdan in Ivanom Terrazasom, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita s Saro Grdan in Ivanom Terrazasom, Ljubljana, ([Calesita tango](http://www.calesitatango.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 2019:
@@ -139,7 +139,7 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 - [Milonga La Dolce Vita](https://www.facebook.com/groups/milongaladolcevita/), Paris (organizirajo Jérémy, Ozgur, Claudio)
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 - Tanguering Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
-- Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.com/))
+- Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.si/))
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Tanguera milonga, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), Ljubljana (PMS - Peter, Marta, Sanja)
