@@ -1,5 +1,5 @@
 ---
-title: "Točka nič (tango)"
+title: "Točka nič je zanič (tango)"
 url: "/tango-tocka-nic/"
 date: 2024-02-10
 description: "Če ne želimo plesa razsekati, se moramo odpovedati \"točki nič\" ali kateremukoli \"parkirišču\". Če korake povezujemo skozi vedno isto točko, to resno zmanjša zveznost plesa."

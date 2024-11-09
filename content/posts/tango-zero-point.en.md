@@ -1,5 +1,5 @@
 ---
-title: "Zero point (tango)"
+title: "Zero point, useless? (tango)"
 url: "/tango-zero-point/"
 date: 2024-02-10
 description: "If we do not want to cut our tango into pieces, we do not have the luxury to return to any \"zero point\" between our steps. Going through the same point between our steps disrupts the flow."
