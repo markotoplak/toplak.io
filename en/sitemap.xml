@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://toplak.io/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toplak.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/posts/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/sl/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://toplak.io/tango-zero-point/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="https://toplak.io/tango-tocka-nic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toplak.io/tango-zero-point/"
                 />
   </url>
   
@@ -59,21 +89,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://toplak.io/connection/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://toplak.io/posts/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="https://toplak.io/sl/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://toplak.io/posts/"
                 />
   </url>
   
