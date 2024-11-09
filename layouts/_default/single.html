@@ -4,6 +4,10 @@
 {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
 </div>
 
+<p style="font-size: larger; font-style: italic;">
+{{  .Description }}
+</p>
+
 <main>
 {{ .Content }}
 </main>
