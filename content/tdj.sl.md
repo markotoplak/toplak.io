@@ -46,7 +46,7 @@ vsak ton v njihovih skladbah nek poseben značaj.
 Tako raje kot zgodnjega Biagija predvajam zgodnjega D'Arienza, raje kot
 poznega Biagija predvajam poznega Di Sarlija,
 raje kot zgodnjega Demareta predvajam zgodnjega Di Sarlija, raje kot Caloja
-predvajam Troila.
+predvajam zgodnjega Pugliesa ali kakega Troila.
 
 Ostali orkestri so zame le začimba. Zelo so mi všeč Laurenz, D'Agostino, in Fresedo.
 Spogledujem se tudi z novejšo glasbo: najraje imam Tango Bardo.
@@ -97,53 +97,46 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Belivol, Celje ([Milonguero?Sí!](https://www.milonguero.si/))
-- Milonguita Drama, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonguita Drama, Ljubljana ([tango.si](http://www.tango.si/), 2x)
 - Milonga z Isabel Costa in Nelson Pinto, Ljubljana ([Tango utrip](http://tangoutrip.si/))
-- Milonguita Drama, Ljubljana ([tango.si](http://www.tango.si/))
 - Božična milonga, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
 2016:
 
-- Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/))
+- Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/), 2x)
 - Milonga Toastanje, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 - Milonga Calesita, Ljubljana ([Calesita tango](http://www.calesitatango.si/))
-- Brunch milonga, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Belivol, Celje ([Milonguero?Sí!](https://www.milonguero.si/))
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
-- Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/), 2x)
+- Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/), 2x)
 - Summer Tango Camp, Kolašin, Črna gora ([Tango natural](http://tangonatural.com/))
-- Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
-- Popoldnaska milonga, Maribor ([MaTango](http://www.matango.si/))
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Popoldanska milonga, Maribor ([MaTango](http://www.matango.si/))
 
 2017:
 
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/), 2x)
 - Galeria Ideal, Dunaj, Avstrija ([Galeria Ideal](www.galeria-ideal.at))
 - [Kyiv Tango Marathon](http://www.tangomarathon.kiev.ua/), Kiev, Ukrajina (organizirala Julia Serzhan)
 - Milonga Špica, Ljubljana ([Tango motion](http://tango-motion.com/))
 - Milonga Piramida, Maribor ([MaTango](http://www.matango.si/))
 - Luna Tango Gathering, Mokrice (maraton, organizirala Anja Furlan)
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/)); back-to-back z Blažem Brancem
 
 2018:
 
 - Milonga Tangobar s koncertom Trinidad Arfó, Ljubljana ([TangoDeep](https://facebook.com/tangoprofundo/)); back-to-back z Viacheslavom Ivanovim
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/), 2x)
 - Milonga Calesita s Saro Grdan in Ivanom Terrazasom, Ljubljana, ([Calesita tango](http://www.calesitatango.si/))
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 2019:
 
 - [Milonga La Dolce Vita](https://www.facebook.com/groups/milongaladolcevita/), Paris (organizirajo Jérémy, Ozgur, Claudio)
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
-- Tanguering Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
+- Tanguerin Party, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - Milonga Calesita, Ljubljana, ([Calesita tango](http://www.calesitatango.si/))
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/), 2x)
 - Tanguera milonga, Ljubljana ([Tanguera](https://www.facebook.com/tanguera.si/))
 - [Milonga Dulce Veneno](https://www.facebook.com/events/515327965719577/), Ljubljana (PMS - Peter, Marta, Sanja)
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
 
 2020:
 - Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/)) - zadnja pred marčevskim zaprtjem
@@ -162,7 +155,14 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 - Milonga Linda, Ljubljana ([Tango utrip](http://tangoutrip.si/))
 
 2024:
-- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/), 3x)
+- 
+2025:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/), 5x)
+- Milonga Kazina, Ljubljana (Sanja Zalar Gostimirović in Blaž Branc, 2x)
+- Milonga Calesita, Ljubljana ([Calesita tango](http://www.calesitatango.si/))
+- Milonga Zorica, Ljubljana ([Tango Popular](https://www.facebook.com/tangopopularljubljana/))
+- Milonga Infinita, Ljubljana ([Tango Infinito](https://www.infinitotango.com/))
 
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić
 
