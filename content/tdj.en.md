@@ -160,4 +160,9 @@ I am very grateful to all organizers who trusted me with their milongas.
 - Milonga Zorica, Ljubljana ([Tango Popular](https://www.facebook.com/tangopopularljubljana/))
 - Milonga Infinita, Ljubljana ([Tango Infinito](https://www.infinitotango.com/))
 
+2026:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Kazina, Ljubljana (Sanja Zalar Gostimirović and Blaž Branc)
+
+
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Montenegro. Photo: Dušan Babić

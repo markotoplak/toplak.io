@@ -5,7 +5,7 @@ date: 2019-08-18
 description: "Če želimo hkraten in pester ples, moramo partnerjevo gibanje jasno čutiti. In oni naše."
 ---
 
-Na eno od milong Carmencita, to je bilo že pred leti, sta prišli dve dekleti, ki sem ju videl prvič. Mislil sem, da sta začetnici. Kako uro sta le sedeli in radovedno opazovali. Potem sem eno od njiju sem povabil na ples.
+Na eno od Milong Carmencita, enkrat spomladi 2015 v plesnem studiju Moj korak, sta prišli dve dekleti, ki sem ju videl prvič. Mislil sem, da sta začetnici. Kako uro sta le sedeli in radovedno opazovali. Potem sem eno od njiju sem povabil na ples.
 
 Ko sva začela plesati, mi nekaj ni šlo skupaj. Bila je le drobno dekle, a ko sva plesala, se mi je zdela velika. V vsakem trenutku sem točno vedel, kaj njeno telo počne: kar skozi objem sem videl njena stopala! Toliko se je dogajalo, da se mi je zdelo, kot da pleševa v upočasnjenem posnetku. Bilo je neverjetno! To že ni bila začetnica. 
 

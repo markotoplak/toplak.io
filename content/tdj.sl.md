@@ -164,5 +164,10 @@ Sem mlad DJ. Še vedno se iščem in veliko se še moram naučiti. Organizatorje
 - Milonga Zorica, Ljubljana ([Tango Popular](https://www.facebook.com/tangopopularljubljana/))
 - Milonga Infinita, Ljubljana ([Tango Infinito](https://www.infinitotango.com/))
 
+2026:
+- Milonga Tabor, Ljubljana ([tango.si](http://www.tango.si/))
+- Milonga Kazina, Ljubljana (Sanja Zalar Gostimirović and Blaž Branc)
+
+
 <img src="/dj/kolasin-by-dusan-babic.jpg" /> Summer Tango Camp, Kolašin, Črna gora. Foto: Dušan Babić
 
